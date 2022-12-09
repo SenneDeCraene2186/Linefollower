@@ -2,8 +2,7 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[]  
-# LineFollower
+[https://github.com/SenneDeCraene2186/Linefollower/blob/5e821eb6d61656b84c203e57ccdae356fdc2c418/technische%20tekeningen/mechanisch/Mechanisch%20ontwerp%203D.png]  
 <br />
 <br />
   
