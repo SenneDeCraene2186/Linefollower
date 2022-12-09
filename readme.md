@@ -1,7 +1,8 @@
+![afbeelding](https://user-images.githubusercontent.com/115142136/206719917-5b027e4d-5dd5-464b-b7d4-7088b74a74df.png)
+
 <br />
 <br />
 <br />
-[https://github.com/SenneDeCraene2186/Linefollower/blob/5e821eb6d61656b84c203e57ccdae356fdc2c418/technische%20tekeningen/mechanisch/Mechanisch%20ontwerp%203D.png]  
 <br />
 <br />
   
