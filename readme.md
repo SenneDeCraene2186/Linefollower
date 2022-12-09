@@ -2,7 +2,7 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-technische tekeningen/mechanisch/Mechanisch ontwerp 3D.png          
+[IMAGE]  
 # LineFollower
 <br />
 <br />
